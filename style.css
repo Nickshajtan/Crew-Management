@@ -1,0 +1,14 @@
+/*
+Theme Name: ship
+Description:  ship ads theme
+*/
+@media screen and ( max-width:1366px) and ( max-height: 800px ){
+	section#main{height:auto!important;}
+	section#main.image__bg{height:auto!important;}
+}
+a.form__show{
+	color:#fff!important;
+}
+a.form__show:hover, a.form__show:focus, a.form__show:visited, a:hover, a:focus, a:visited{
+	text-decoration:none;
+}
